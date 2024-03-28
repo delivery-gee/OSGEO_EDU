@@ -18,3 +18,10 @@
 ## 오픈소스 개발 환경 구축하기
 
 ## Reference
+
+# osgeo 한국어지부
+
+# 개발언어
+## c
+## Java
+## Python
